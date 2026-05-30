@@ -67,6 +67,6 @@ A espinha dorsal jurídica é consistente: ADIs 2.110/2.111 (mérito em 21/03/20
 
 ## Caveats
 - **Taxa de automação:** não foi localizada uma taxa oficial agregada confirmada para 2025/2026; o número de 28% (2024) é o mais recente com período/metodologia definidos. Fontes secundárias de 2026 citam ~40-50%, mas referem-se a metas ou a benefícios específicos (ex.: aposentadorias), não a uma taxa geral oficial.
-- **Item 8:** embora o prazo-base de 30 dias esteja correto e seja a posição majoritária, a prorrogação por mais 30 dias gera a "discussão de 60 dias"; ambos os números coexistem na prática (30 inicial + 30 de prorrogação).
+- **Item 8:** embora o prazo-base de 30 dias esteja correto e seja a posição majoritária, a prorrogação por mais 30 dias gera a "discussão de 60 dias"; ambos os números coexistem na prática (30 inicial + 30 de prorrogação)..
 - **Item 9:** as datas de 2026 referem-se a evento recentíssimo; os números oficiais (61.616 de meta; 126 mil concluídos) constam de notícias do próprio INSS publicadas em maio de 2026.
 - O título de notícia do IEPREV usa "Portaria nº 188/2025" incorretamente — atenção para não replicar esse erro: o ato é **Instrução Normativa**.
